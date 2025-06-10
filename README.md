@@ -8,5 +8,6 @@ Scalable architecture for inventory operations
 
 Designed for easy customization and extension
 
+Ideal for small to medium businesses or developers building enterprise tools
 
 Feel free to fork and build on this foundation to suit your specific inventory tracking requirements.
